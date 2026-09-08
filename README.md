@@ -1,7 +1,7 @@
 # Flutter Accident Reporting App
 A Flutter Accident reporting App working in both iOS and Android.
 For view the result of the App please visit
-http://www.sheikhsoft.com/accident-reporting/index.php.
+
 
 # Contribution
 Developed By ADIL KHAN
