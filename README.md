@@ -4,8 +4,8 @@ For view the result of the App please visit
 http://www.sheikhsoft.com/accident-reporting/index.php
 
 # Contribution
-Developed By Sk SHAMIMUL ISLAM (http://www.sheikhsoft.com)
-Concept Design by Johnyvino (http://johnyvino.com)
+Developed By ADIL KHAN(http://www.sheikhsoft.com)
+Concept Design by ADIL KHAN (http://johnyvino.com)
 
 ## Demo
 
