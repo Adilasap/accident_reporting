@@ -7,7 +7,7 @@ import 'package:human_anatomy/full_page_human_anatomy.dart';
 import 'package:location_and_image_picker/fullpage_location_and_pic_picker.dart';
 import 'package:swipe_button/swipe_button_demo.dart';
 import 'package:analog_time_picker/utils.dart';
-#d
+
 void main() {
   runApp(
     MaterialApp(
