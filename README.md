@@ -7,24 +7,13 @@ http://www.sheikhsoft.com/accident-reporting/index.php.
 Developed By ADIL KHAN
 Concept Design by ADIL KHAN 
 
-## Demo
 
-|<img src="http://sheikhsoft.com/screensort/fullapp/ar_1.gif" width="340" height="640" title="Screen Shoot">|<img src="http://sheikhsoft.com/screensort/fullapp/ar_2.gif" width="340" height="640" title="Screen Shoot">|
-|<img src="http://sheikhsoft.com/screensort/fullapp/ar_3.gif" width="340" height="640" title="Screen Shoot">|<img src="http://sheikhsoft.com/screensort/fullapp/ar_4.gif" width="340" height="640" title="Screen Shoot">|
-|<img src="http://sheikhsoft.com/screensort/fullapp/ar_5.gif" width="340" height="640" title="Screen Shoot">|<img src="http://sheikhsoft.com/screensort/fullapp/ar_6.gif" width="340" height="640" title="Screen Shoot">|
-|<img src="http://sheikhsoft.com/screensort/fullapp/ar_7.gif" width="340" height="640" title="Screen Shoot">|
-
-## Video Demo
-
-https://www.youtube.com/watch?v=q0FlApQriS4&feature=youtu.be
 
 ## Installation
 
 Run  `flutter run` in your terminal.
 
-For view the result of the App please visit
 
-http://www.sheikhsoft.com/accident-reporting/index.php
 
 ### Goals for this sample
 
